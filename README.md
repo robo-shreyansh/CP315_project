@@ -2,4 +2,4 @@
 
 In progress..
 
-[!alt text](kuka1.gif)
+![me](https://github.com/robo-shreyansh/CP315_project/blob/main/kuka1.gif)
