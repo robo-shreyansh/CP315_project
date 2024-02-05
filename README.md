@@ -2,4 +2,7 @@
 
 In progress..
 
-![me](https://github.com/robo-shreyansh/CP315_project/blob/main/kuka1.gif)
+
+<img src="kuka1.gif" loop=infinite>
+
+Use conda. Install the requirements. Clone the repo, create another branch and commit there.
